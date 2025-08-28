@@ -1,0 +1,4 @@
+Frontend/node_modules
+Frontend/.vscode
+server/venv
+server/__pycache__
